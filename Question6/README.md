@@ -1,4 +1,7 @@
 # **The Hackathon**
+
+**The provided solution is correct logically after verification from several of my peers but unfortunately, I couldn't pass all the test cases**
+
 Credit Suisse has multiple departments; they are named as Department1, Department2 and Department3 respectively. We want to create a group of employees from these three departments so that they can participate in a hackathon.  But there are some rules which we need to keep in mind while forming the groups. <br>
 <br>
 •	There is a limit on the group size. A group can have a specified minimum and maximum number of employees. <br>
