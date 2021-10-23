@@ -10,7 +10,7 @@ All the solutions are implemented in C++ prorgamming language.
 
 ## 🏆 Results <a name = "results"></a> ##
 
-284th place on the global leaderboard with 820 points
+279th place on the global leaderboard with 821 points
 <div align="center">
     <img src="./Results/Global.png" alt="result_page" >
 </div>
